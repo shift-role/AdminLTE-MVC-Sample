@@ -1,0 +1,24 @@
+{
+  "name": "admin-lte",
+  "authors": [
+    "HidehitoTanaka <tanaka.h@smart-up.co.jp>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "admin-lte": "v2.4.0"
+  },
+  "resolutions": {
+    "jquery": ">=1.6"
+  }
+}
