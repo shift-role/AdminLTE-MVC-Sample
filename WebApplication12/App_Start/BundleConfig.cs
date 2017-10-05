@@ -34,11 +34,11 @@ namespace WebApplication12
                 .Include("~/Scripts/app.js")
                 .Include("~/Scripts/init.js"));
 
-#if DEBUG
-            BundleTable.EnableOptimizations = false;
-#else
-            BundleTable.EnableOptimizations = true;
-#endif
+//#if DEBUG
+//            BundleTable.EnableOptimizations = false;
+//#else
+//            BundleTable.EnableOptimizations = true;
+//#endif
         }
     }
 }
