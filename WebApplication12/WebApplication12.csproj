@@ -216,6 +216,7 @@
     <Content Include="Views\Shared\_ControlSidebar.cshtml" />
     <Content Include="Views\Shared\_Header.cshtml" />
     <Content Include="Views\Shared\_Sidebar.cshtml" />
+    <None Include="Properties\PublishProfiles\WebApplication1220171005035112 - Web Deploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
